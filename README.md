@@ -1,3 +1,3 @@
 Mac Changer
 
-I want to create linux command. This linux command features are changing your mac address.
+I want to create maccahenger linux command with my codes. This codes features are that It change your mac address.
